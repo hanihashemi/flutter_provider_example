@@ -1,6 +1,6 @@
 # Example of flutter state management with provider
 
-
+Only changed item will render :) 
 
 <img style="margin-left:10px;" src="demo.gif" />
 
