@@ -1,6 +1,6 @@
-# flutter demo provider
+# Example of flutter state management with provider
 
-Example of flutter state management with provider
+
 
 <img style="margin-left:10px;" src="demo.gif" />
 
