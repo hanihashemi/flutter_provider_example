@@ -2,7 +2,7 @@
 
 Example of flutter state management with provider
 
-<img style="margin-left:10px;" src="demo.gif" width="19%" />
+<img style="margin-left:10px;" src="demo.gif" />
 
 Resources:
 https://pub.dev/packages/provider
